@@ -9,7 +9,7 @@ blog:
     description: 再好的东西也有失去的一天,再深的记忆也有淡忘的一天                                        # 博客描述
     title: chenjupeng                                               # 网页标题
     url: http://chenjupeng .github.io                                                # 博客地址
-    duoshuo:                                            # 多说ID
+    duoshuo:    jucheng                                          # 多说ID
     tongji:                                             # 百度统计ID
     qiniu:                                               # 七牛云地址
 author:
@@ -17,7 +17,7 @@ author:
     email: 13570234216@163.com                                             # 邮箱地址
     weibo: http://weibo.com/u/3073257363                                              # 微博地址
     github: https://github.com/chenjupeng                                              # GitHub地址
-    logo: http://chenjupeng.github.io/res/img/logo.jpeg                                               # logo地址
+    logo: http://chenjupeng.github.io/res/img/logo.png                                              # logo地址
     douban:
         name:                                            # 豆瓣地址名称
         key:                                             # 豆瓣API Key
